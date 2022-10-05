@@ -1,0 +1,3 @@
+[submodule "Assets/CrawfisSoftware/AssetManagement"]
+	path = Assets/CrawfisSoftware/AssetManagement
+	url = https://github.com/crawfis/AssetManagement.git
