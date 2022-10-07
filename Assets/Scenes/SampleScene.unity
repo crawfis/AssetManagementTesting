@@ -475,7 +475,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _assetManager: {fileID: 11400000, guid: 2c581efc6c928df4e9ee37fd7bd1d4eb, type: 2}
-  _assetName: YellowSphere
+  _assetName: Sphere
   _spawnTimeDelay: 0.02
   _autoDestructTimeDelay: 1
 --- !u!4 &1507792460

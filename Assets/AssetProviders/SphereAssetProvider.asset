@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _assetNames:
   - BlueCube2
-  - Assets/Prefabs/YellowSphere.prefab
-  - Assets/Prefabs/YellowSphere Variant.prefab
-  - Assets/Prefabs/YellowSphere Variant 1.prefab
-  - Assets/Prefabs/YellowSphere Variant 2.prefab
-  - Assets/Prefabs/YellowSphere2.prefab
-  - Assets/Prefabs/YellowSphere2 Variant.prefab
-  - Assets/Prefabs/YellowSphere2 Variant 1.prefab
-  - Assets/Prefabs/YellowSphere2 Variant 2.prefab
+  - YellowSphere
+  - YellowSphere Variant
+  - YellowSphere Variant 1
+  - YellowSphere Variant 2
+  - YellowSphere2
+  - YellowSphere2 Variant
+  - YellowSphere2 Variant 1
+  - YellowSphere2 Variant 2
   _labels:
   - Sphere
   _mergeMode: 1
