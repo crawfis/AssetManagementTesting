@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Cubes
+  m_EditorClassIdentifier: 
+  m_GroupName: Cubes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 445f2a49c30b9dc40842e64008c29972
+  m_SerializeEntries:
+  - m_GUID: a858f33275344dc44a032c630ccc37b9
+    m_Address: BlueCube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd59b0367fdbc14eafbc655080dd071
+    m_Address: BlueCube Variant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    - Variant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 774e7034a92306a4ab12a065fd5d7c73
+    m_Address: BlueCube Variant 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    - Variant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7bc144a803a83c4c948ff1187e3496d
+    m_Address: BlueCube2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58a7fd981bf11e541ae17dd0c1d2f545
+    m_Address: BlueCube2 Variant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    - Variant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a51bd4cefc2fa9d4d9708b7deac0bf7c
+    m_Address: BlueCube2 Variant 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cube
+    - Variant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a712f468f07a5f54ab42ebf6f26394ac
+    m_Address: BlueCubeAssetProvider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 087cf7aafeb610846be15b43e6e2a3dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0bfec62db0add6742bdc868d8f989648, type: 2}
+    - {fileID: 11400000, guid: 56df96c291239be4bb6b03108a489c36, type: 2}

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: YellowSpheres
+  m_EditorClassIdentifier: 
+  m_GroupName: YellowSpheres
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ad29cd418287ce04d8ecbe3bb4d7a74e
+  m_SerializeEntries:
+  - m_GUID: ded690a2935afd64e81cfbc0ae641818
+    m_Address: YellowSphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 012dbe6daae510349bd3441f589cdd89
+    m_Address: YellowSphere Variant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 345766ac6f629814fb5864818cada62c
+    m_Address: YellowSphere Variant 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 913c961447983f049ae6b273bbf83fd2
+    m_Address: YellowSphere Variant 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1640847865fe4af41b1cade5b08148f2
+    m_Address: YellowSphere2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 670e81d296ea38440b72d0847a33a14a
+    m_Address: YellowSphere2 Variant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 068ded9b1ed63d94bbf44903a2046523
+    m_Address: YellowSphere2 Variant 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3785c5e569b6d01439292a97dbbb1566
+    m_Address: YellowSphere2 Variant 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sphere
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 087cf7aafeb610846be15b43e6e2a3dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7e725d54117048041b491161377c9d34, type: 2}
+    - {fileID: 11400000, guid: 8acbafda6f8e5c84c931ce872d5399b1, type: 2}
