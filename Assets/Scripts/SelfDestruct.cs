@@ -1,4 +1,4 @@
-﻿using CrawfisSofware.AssetManagement;
+﻿using CrawfisSoftware.AssetManagement;
 using System.Collections;
 using UnityEngine;
 

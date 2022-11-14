@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fdbe11ebaefb8645999b6d295653989, type: 3}
   m_Name: SequentialYellowSphereProvider
   m_EditorClassIdentifier: 
-  _assetNames: []
   _baseAssetProvider: {fileID: 11400000, guid: 1e376a8be83bda442812efd7da5efc6a, type: 2}
   _decorationAssetProviders:
   - {fileID: 11400000, guid: 1badc91b4fc2d9948a5c56f444beeb40, type: 2}
-  - {fileID: 11400000, guid: 32f28fda41aea28438e67d7d8444c324, type: 2}
+  - {fileID: 11400000, guid: 2c581efc6c928df4e9ee37fd7bd1d4eb, type: 2}

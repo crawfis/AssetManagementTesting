@@ -1,5 +1,4 @@
 using CrawfisSoftware.AssetManagement;
-using CrawfisSofware.AssetManagement;
 using System.Collections;
 using UnityEngine;
 
@@ -7,12 +6,10 @@ namespace CrawfisSoftware.Testing
 {
     public class SimpleSpawner : MonoBehaviour
     {
-        [SerializeField] private ScriptableAssetProviderBase _assetManager;
+        [SerializeField] private ScriptableAssetProviderBase<GameObject> _assetManager;
         [SerializeField] private string _assetName;
         [SerializeField] private float _spawnTimeDelay = 0.5f;
         [SerializeField] private float _autoDestructTimeDelay = 6f;
-
-        //private IAssetManagerAsync<GameObject> _assetManager;
 
         private async void Awake()
         {

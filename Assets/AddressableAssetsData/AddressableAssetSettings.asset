@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 0507cd470b511ff45a535e77dfa4ad22
   m_CachedHash:
     serializedVersion: 2
-    Hash: 194c7bd169997f39c81d7ab0ff8e5831
+    Hash: b98a07335f5feb77938253760491920d
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -48,6 +48,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 79c00776b6074bc4d9c78818cbd09f72, type: 2}
   - {fileID: 11400000, guid: 6284aa31fb4abcc4bb30ab8053eba9b7, type: 2}
   - {fileID: 11400000, guid: cefad42957cf6674f81462760dc6ad6d, type: 2}
+  - {fileID: 11400000, guid: 4a5008528f51a874ba11791dec3389e6, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -92,6 +93,7 @@ MonoBehaviour:
     - Cube
     - Variant
     - Sphere
+    - gift
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 0ff04eacdc8b0424cb5868fa8205851c, type: 2}
