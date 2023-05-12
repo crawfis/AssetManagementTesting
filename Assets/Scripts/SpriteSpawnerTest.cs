@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace CrawfisSoftware.Testing
 {
+    [RequireComponent(typeof(SpriteRenderer))]
     internal class SpriteSpawnerTest : MonoBehaviour
     {
         [SerializeField] private ScriptableAssetProviderBase<Sprite> _assetManager;
